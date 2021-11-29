@@ -7,7 +7,7 @@ public class HW_t20_RockPaperScissors {
 
         Scanner Sc = new Scanner(System.in);   // For using Scan
         System.out.println("Welcome to ROCK PAPER SCISSORS GAME");
-        System.out.println("Made by SWARAJ");
+        System.out.println("Made by SWAYAM");
 
         ////////// CODE FOR PLAYER ///////////
 
